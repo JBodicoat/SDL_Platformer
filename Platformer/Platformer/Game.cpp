@@ -28,7 +28,7 @@ Game::Game()
 
 	// Create the window
 	m_pWindow = SDL_CreateWindow(
-		"Jack Bodicoat DAC526_AE2",  // Title
+		"SDL Platformer",  // Title
 		250,				// Initial x
 		50,					// Initial y
 		m_windowWidth,				// Width
