@@ -1,22 +1,4 @@
-﻿  CanSee.cpp
-  Level.cpp
-  Bitmap.cpp
-  BoxCollider.cpp
-  CircleCollider.cpp
-  Collider.cpp
-  Creature.cpp
-  Fire.cpp
-  Game.cpp
-  GameObject.cpp
-  GoldBars.cpp
-  Hero.cpp
-  Input.cpp
-  Main.cpp
-  Monster.cpp
-  Mushroom.cpp
-  Tree.cpp
-  Vector2.cpp
-  Generating Code...
+﻿  Game.cpp
   Platformer.vcxproj -> D:\Programming_Portfolio\SDL_Platformer\Platformer\Debug\Platformer.exe
           1 file(s) copied.
           1 file(s) copied.
